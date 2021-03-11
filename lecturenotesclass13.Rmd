@@ -151,7 +151,7 @@ were to take another random sample of 50 students, how many would you expect
 to be left handed? Would you be surprised if only 3 of them were left handed? 
 Would you be surprised if 40 of them were left handed?
 
-I would expect around 5 students to be left handed. I wouldn't be surprised in 3 were left handed, but I would be surprised if 40 were left handed.
+I would expect around 5 students to be left handed. I wouldn't be surprised in 3 were left handed, but I would be surprised if 40 were left handed because it would be very different than the generalized sample.
 
 ## Quantifying the variability of a sample statistic
 
